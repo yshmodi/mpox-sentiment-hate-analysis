@@ -15,7 +15,6 @@ This project examines how social media discourse evolved during the Mpox outbrea
 ## 📂 Repository Contents
 - `sentiment_hate_analysis.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and analysis.
 - `report.pdf`: Comprehensive report detailing the methodology, results, and findings.
-- `images/`: Visualizations and plots.
 
 ## 📊 Results
 Key findings include:
